@@ -40,4 +40,4 @@ All data stays in your browser (`chrome.storage.local`). Nothing is sent to any 
 
 ## Why I built this
 
-I watch a lot of Twitch and was curious how much time I actually spend with which streamers. The project also helped me learn TypeScript
+Twitch doesn't show how much time you spend with each streamer. Lurk Report fills that gap. I built it as a personal project to improve my coding skills and learn how to release a product.
